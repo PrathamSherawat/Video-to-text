@@ -1,0 +1,14 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'Courier';
+  color: lightgrey;
+  font-size: 6pt;
+  line-height: 4pt;
+}
+
+canvas {
+  display: block;
+}
